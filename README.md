@@ -3,17 +3,18 @@
 ###Datasets
 This repository is open for Hacktoberfest contributors to analyze data and bring their opensource skills in action. Data Folder contains several interesting datasets . I have limited the datasets to excel and csv files to keep the thrill of data analysis intact.
 
-####Social Datasets include -
+###Social Datasets include -
 1. Indian Elections
 2. Air_Quality
 3. crime rates
 4. unemployment analysis
-####Medical Datasets -
+###Medical Datasets -
 1. Liver Disease Dataset
 2. Population -
 3. World Population
+
 ###Some links to other kaggle datasets I found unique-
-```* https://www.kaggle.com/datasets/pavellexyr/the-reddit-climate-change-dataset
+``` * https://www.kaggle.com/datasets/pavellexyr/the-reddit-climate-change-dataset
 * https://www.kaggle.com/datasets/therohk/india-headlines-news-dataset```
 ##How to use this repo
 Respond to my issues or create your own issue with a problem statement I will assign you with the issue
